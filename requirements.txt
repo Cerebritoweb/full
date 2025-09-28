@@ -1,0 +1,11 @@
+python-dotenv
+streamlit
+sqlalchemy
+bcrypt
+pyjwt
+requests
+pytest
+reportlab
+matplotlib
+pandas
+PyPDF2
